@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=52&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Harshvardhan" alt="Harshvardhan" />
+<img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=48&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=85&lines=Harshvardhan" alt="Harshvardhan" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=750&lines=CS+Undergrad+%40+SRM;Aspiring+Software+Engineer+%26+Full-Stack+Developer;Core+Backend%3A+Java+%E2%80%A2+Node.js+%E2%80%A2+Express+%E2%80%A2+SQL;Modern+Frontend%3A+React+%E2%80%A2+JavaScript+%E2%80%A2+Tailwind+CSS;DSA+%26+Problem-Solving+Enthusiast" alt="Typing Subtitle" />
 
