@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=48&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=85&lines=Harshvardhan" alt="Harshvardhan" />
@@ -61,6 +62,7 @@
 ### <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=30&duration=1&pause=1000000000&color=9CA3AF&center=false&vCenter=true&width=300&repeat=false&lines=Featured+Projects" alt="Featured Projects" />
 
 #### 🔄 [FoodLoop](https://github.com/harshvardhan-gupta26/FoodLoop) — Smart Surplus Food Rescue & Redistribution Platform
+
 > **A full-stack platform designed to facilitate surplus food rescue and community redistribution.**
 
 - Built with a modern decoupled frontend and scalable backend architecture.
@@ -71,6 +73,7 @@
 ---
 
 #### 🛰️ [SatLink AI](https://github.com/harshvardhan-gupta26/COLLEGE_ML) — Intelligent Satellite Communication Quality Prediction
+
 > **Machine learning-powered quality prediction system for satellite-to-ground communication links.**
 
 - Evaluates communication link stability based on weather factors, signal interference, atmospheric attenuation, and elevation angles.
@@ -83,8 +86,8 @@
 ### <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=30&duration=1&pause=1000000000&color=9CA3AF&center=false&vCenter=true&width=250&repeat=false&lines=GitHub+Stats" alt="GitHub Stats" />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshvardhan-gupta26&show_icons=true&theme=tokyonight&hide_border=true" alt="Harshvardhan's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshvardhan-gupta26&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=harshvardhan-gupta26&show_icons=true&theme=tokyonight&hide_border=true" alt="Harshvardhan's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=harshvardhan-gupta26&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
